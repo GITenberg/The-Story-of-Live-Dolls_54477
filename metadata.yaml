@@ -1,5 +1,5 @@
 _repo: The-Story-of-Live-Dolls_54477
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Keep, Virginia Hynson
@@ -8,6 +8,9 @@ contributor:
     - Clark, Virginia Hynson Keep
     gutenberg_agent_id: '26409'
     url: http://www.gutenberg.org/2009/agents/26409
+covers:
+- cover_type: archival
+  image_path: 54477-h/images/cover.jpg
 creator:
   author:
     agent_name: Gates, Josephine Scribner
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '47892'
     url: http://www.gutenberg.org/2009/agents/47892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54477#The-Story-of-Live-Dolls
 gutenberg_issued: '2017-04-02'
 gutenberg_type: Text
 identifiers:
